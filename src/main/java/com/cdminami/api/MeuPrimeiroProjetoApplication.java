@@ -8,7 +8,7 @@ public class MeuPrimeiroProjetoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MeuPrimeiroProjetoApplication.class, args);
-		System.out.println("executei");
+		System.out.println("executei com git");
 	}
 
 }
